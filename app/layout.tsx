@@ -1,10 +1,10 @@
 import "./globals.css";
-import Header from "@/components/layout/Header";
-import Footer from "@/components/layout/Footer";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
 
 export const metadata = {
-  title: "Hayatıma Bir Şarkı",
-  description: "Sevdiklerin için tamamen sana özel şarkılar",
+  title: "Senin Şarkın",
+  description: "Yeni Nesil Hediyeler",
 };
 
 export default function RootLayout({
